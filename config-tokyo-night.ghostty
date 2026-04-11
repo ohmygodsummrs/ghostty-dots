@@ -1,0 +1,3 @@
+# Alternate Ghostty profile: tokyo-night
+config-file = ghostty/common.ghostty
+config-file = ghostty/themes/tokyo-night.ghostty
